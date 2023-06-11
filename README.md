@@ -1,2 +1,2 @@
 # EfectoMatrix
-Estos archivos fueron creados en javaScrip
+Estos archivos fueron creados en javaScript
